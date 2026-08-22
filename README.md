@@ -57,5 +57,5 @@ Python (pandas, numpy) for cleaning & analysis · matplotlib for static report c
 - [x] Executive summary — `Nassau_Candy_Executive_Summary.docx`
 
 ## Known limitations
-- The corrected `Shipping Lead Time` values (~173–185 days) are a synthetic, internally-consistent index for **comparing** routes and ship modes against each other. They are not literal real-world shipping days — see Report §4 for the full explanation.
+- The corrected `Shipping Lead Time` values (~173–185 days) are a synthetic, internally-consistent index for **comparing** routes and ship modes against each other. They are not literal real-world shipping days — see Research Paper §4 for the full explanation.
 - The Tennessee "bottleneck" finding is a **criterion-based** result (the one state meeting both a top-25%-volume and top-25%-lead-time threshold simultaneously), not a dramatic statistical outlier — the underlying lead-time gap versus the network average is modest (178.0 vs. 177.6 days). See Report §7.
