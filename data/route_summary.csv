@@ -1,0 +1,197 @@
+Route (State),Factory,State,Region,Total_Shipments,Avg_Lead_Time,Lead_Time_StdDev,Total_Sales
+Lot's O' Nuts -> Alabama,Lot's O' Nuts,Alabama,Gulf,34,178.14705882352942,1.7430790058621402,475.61
+Lot's O' Nuts -> Alberta,Lot's O' Nuts,Alberta,Pacific,16,178.1875,0.9810708435174239,204.32
+Lot's O' Nuts -> Arizona,Lot's O' Nuts,Arizona,Pacific,111,177.67567567567568,1.9961880133811536,1468.05
+Lot's O' Nuts -> Arkansas,Lot's O' Nuts,Arkansas,Gulf,31,177.8709677419355,2.404744414470013,434.69
+Lot's O' Nuts -> British Columbia,Lot's O' Nuts,British Columbia,Pacific,18,178.11111111111111,0.9002541398626627,253.4
+Lot's O' Nuts -> California,Lot's O' Nuts,California,Pacific,1125,177.41244444444445,1.914225119835937,15044.9
+Lot's O' Nuts -> Colorado,Lot's O' Nuts,Colorado,Pacific,103,177.32038834951456,1.8535265393351648,1447.66
+Lot's O' Nuts -> Connecticut,Lot's O' Nuts,Connecticut,Atlantic,47,177.17021276595744,2.1194661852146575,523.59
+Lot's O' Nuts -> Delaware,Lot's O' Nuts,Delaware,Atlantic,43,177.69767441860466,2.064840403390267,631.59
+Lot's O' Nuts -> District of Columbia,Lot's O' Nuts,District of Columbia,Atlantic,8,178.875,0.834522960396291,126.0
+Lot's O' Nuts -> Florida,Lot's O' Nuts,Florida,Gulf,209,177.5071770334928,1.876267820662771,2640.13
+Lot's O' Nuts -> Georgia,Lot's O' Nuts,Georgia,Gulf,110,177.43636363636364,2.0655641996524228,1474.09
+Lot's O' Nuts -> Idaho,Lot's O' Nuts,Idaho,Pacific,14,177.5,1.4544361847068465,146.5
+Lot's O' Nuts -> Illinois,Lot's O' Nuts,Illinois,Interior,267,177.75655430711612,1.5884640876500606,3539.21
+Lot's O' Nuts -> Indiana,Lot's O' Nuts,Indiana,Interior,90,177.74444444444444,1.7581982037999024,1253.78
+Lot's O' Nuts -> Iowa,Lot's O' Nuts,Iowa,Interior,16,177.6875,1.8874586088176963,227.87
+Lot's O' Nuts -> Kansas,Lot's O' Nuts,Kansas,Interior,15,177.6,1.5946338585572346,188.93
+Lot's O' Nuts -> Kentucky,Lot's O' Nuts,Kentucky,Gulf,77,177.67532467532467,1.7803130892712353,1039.13
+Lot's O' Nuts -> Louisiana,Lot's O' Nuts,Louisiana,Gulf,24,176.95833333333334,1.9444271910897863,283.71000000000004
+Lot's O' Nuts -> Maine,Lot's O' Nuts,Maine,Atlantic,6,179.0,1.0954451150103284,71.23
+Lot's O' Nuts -> Manitoba,Lot's O' Nuts,Manitoba,Interior,2,175.5,0.7071067811865476,18.0
+Lot's O' Nuts -> Maryland,Lot's O' Nuts,Maryland,Atlantic,60,177.56666666666666,1.889907778816034,812.74
+Lot's O' Nuts -> Massachusetts,Lot's O' Nuts,Massachusetts,Atlantic,76,177.22368421052633,1.6378741035095947,1003.24
+Lot's O' Nuts -> Michigan,Lot's O' Nuts,Michigan,Interior,147,177.51020408163265,2.0080909865143552,2103.76
+Lot's O' Nuts -> Minnesota,Lot's O' Nuts,Minnesota,Interior,43,178.30232558139534,1.4562653427915224,561.21
+Lot's O' Nuts -> Mississippi,Lot's O' Nuts,Mississippi,Gulf,30,177.6,1.6938020891595873,448.43
+Lot's O' Nuts -> Missouri,Lot's O' Nuts,Missouri,Interior,36,177.83333333333334,1.4040757000349326,514.08
+Lot's O' Nuts -> Montana,Lot's O' Nuts,Montana,Pacific,8,178.0,0.9258200997725493,92.61
+Lot's O' Nuts -> Nebraska,Lot's O' Nuts,Nebraska,Interior,23,176.8695652173913,1.4555332614196086,295.28000000000003
+Lot's O' Nuts -> Nevada,Lot's O' Nuts,Nevada,Pacific,24,177.91666666666666,2.1247335723857708,389.21000000000004
+Lot's O' Nuts -> New Brunswick,Lot's O' Nuts,New Brunswick,Atlantic,4,177.5,0.5773502691896257,97.72
+Lot's O' Nuts -> New Hampshire,Lot's O' Nuts,New Hampshire,Atlantic,13,176.69230769230768,1.2506408613597129,178.02
+Lot's O' Nuts -> New Jersey,Lot's O' Nuts,New Jersey,Atlantic,65,178.1076923076923,1.6309801206164865,825.88
+Lot's O' Nuts -> New Mexico,Lot's O' Nuts,New Mexico,Pacific,18,178.55555555555554,1.1991282236408418,260.71
+Lot's O' Nuts -> New York,Lot's O' Nuts,New York,Atlantic,645,177.63720930232557,1.8054038005784538,8757.81
+Lot's O' Nuts -> Newfoundland and Labrador,Lot's O' Nuts,Newfoundland and Labrador,Atlantic,6,181.5,2.9495762407505217,162.0
+Lot's O' Nuts -> North Carolina,Lot's O' Nuts,North Carolina,Gulf,143,177.66433566433565,1.7680420297409125,2045.6100000000001
+Lot's O' Nuts -> North Dakota,Lot's O' Nuts,North Dakota,Interior,5,177.2,1.6431676725155002,57.160000000000004
+Lot's O' Nuts -> Ohio,Lot's O' Nuts,Ohio,Atlantic,262,177.0763358778626,2.053380804835216,3472.7400000000002
+Lot's O' Nuts -> Oklahoma,Lot's O' Nuts,Oklahoma,Interior,41,177.97560975609755,2.0553321492893675,569.4
+Lot's O' Nuts -> Ontario,Lot's O' Nuts,Ontario,Atlantic,28,176.85714285714286,1.3801311186846983,348.32
+Lot's O' Nuts -> Oregon,Lot's O' Nuts,Oregon,Pacific,77,178.03896103896105,1.7580009463619244,1085.9
+Lot's O' Nuts -> Pennsylvania,Lot's O' Nuts,Pennsylvania,Atlantic,331,177.51359516616313,1.5321690129022143,4338.55
+Lot's O' Nuts -> Prince Edward Island,Lot's O' Nuts,Prince Edward Island,Atlantic,6,178.33333333333334,0.5163977794943225,78.1
+Lot's O' Nuts -> Quebec,Lot's O' Nuts,Quebec,Atlantic,24,177.54166666666666,2.063748524170157,242.93
+Lot's O' Nuts -> Rhode Island,Lot's O' Nuts,Rhode Island,Atlantic,30,176.96666666666667,1.8473342085721534,353.76
+Lot's O' Nuts -> South Carolina,Lot's O' Nuts,South Carolina,Gulf,21,177.23809523809524,1.6402671094904573,281.32
+Lot's O' Nuts -> South Dakota,Lot's O' Nuts,South Dakota,Interior,9,178.66666666666666,0.8660254037844347,117.59
+Lot's O' Nuts -> Tennessee,Lot's O' Nuts,Tennessee,Gulf,109,177.94495412844037,1.5976537333164573,1361.56
+Lot's O' Nuts -> Texas,Lot's O' Nuts,Texas,Interior,569,177.57469244288225,1.728528016604227,7642.34
+Lot's O' Nuts -> Utah,Lot's O' Nuts,Utah,Pacific,29,178.17241379310346,1.2836600995713494,393.91
+Lot's O' Nuts -> Vermont,Lot's O' Nuts,Vermont,Atlantic,5,177.4,0.8944271909999143,103.19
+Lot's O' Nuts -> Virginia,Lot's O' Nuts,Virginia,Gulf,109,177.42201834862385,1.7442688056394542,1538.84
+Lot's O' Nuts -> Washington,Lot's O' Nuts,Washington,Pacific,269,177.66914498141264,1.8803321230785486,3492.91
+Lot's O' Nuts -> West Virginia,Lot's O' Nuts,West Virginia,Atlantic,2,176.0,2.8284271247461903,38.72
+Lot's O' Nuts -> Wisconsin,Lot's O' Nuts,Wisconsin,Interior,58,177.44827586206895,1.8654044648016346,768.25
+Lot's O' Nuts -> Wyoming,Lot's O' Nuts,Wyoming,Pacific,1,178.0,0.0,13.96
+Secret Factory -> Alabama,Secret Factory,Alabama,Gulf,3,176.66666666666666,1.1547005383792557,150.0
+Secret Factory -> Alberta,Secret Factory,Alberta,Pacific,2,179.0,0.0,180.0
+Secret Factory -> Arizona,Secret Factory,Arizona,Pacific,5,178.0,1.5811388300841898,640.0
+Secret Factory -> Arkansas,Secret Factory,Arkansas,Gulf,2,178.0,1.4142135623730951,63.75
+Secret Factory -> California,Secret Factory,California,Pacific,31,177.29032258064515,1.7548703349458963,1238.75
+Secret Factory -> Colorado,Secret Factory,Colorado,Pacific,7,176.28571428571428,2.2146697055682814,171.25
+Secret Factory -> Connecticut,Secret Factory,Connecticut,Atlantic,1,177.0,0.0,2.5
+Secret Factory -> Delaware,Secret Factory,Delaware,Atlantic,1,179.0,0.0,60.0
+Secret Factory -> Florida,Secret Factory,Florida,Gulf,7,177.71428571428572,1.3801311186847103,78.75
+Secret Factory -> Georgia,Secret Factory,Georgia,Gulf,7,177.85714285714286,0.6900655593423531,317.5
+Secret Factory -> Illinois,Secret Factory,Illinois,Interior,13,176.92307692307693,1.6563785025137716,546.25
+Secret Factory -> Indiana,Secret Factory,Indiana,Interior,4,177.75,1.2583057392117944,21.25
+Secret Factory -> Kentucky,Secret Factory,Kentucky,Gulf,2,176.5,0.7071067811865476,46.25
+Secret Factory -> Louisiana,Secret Factory,Louisiana,Gulf,2,178.5,0.7071067811865476,11.25
+Secret Factory -> Maryland,Secret Factory,Maryland,Atlantic,3,178.33333333333334,1.5275252316519499,8.75
+Secret Factory -> Massachusetts,Secret Factory,Massachusetts,Atlantic,2,176.5,2.1213203435596424,100.0
+Secret Factory -> Michigan,Secret Factory,Michigan,Interior,5,177.4,2.509980079602224,82.5
+Secret Factory -> Minnesota,Secret Factory,Minnesota,Interior,1,179.0,0.0,5.0
+Secret Factory -> Mississippi,Secret Factory,Mississippi,Gulf,1,178.0,0.0,80.0
+Secret Factory -> Nebraska,Secret Factory,Nebraska,Interior,1,176.0,0.0,2.5
+Secret Factory -> Nevada,Secret Factory,Nevada,Pacific,2,178.0,2.8284271247461903,202.5
+Secret Factory -> New Hampshire,Secret Factory,New Hampshire,Atlantic,1,180.0,0.0,6.25
+Secret Factory -> New Jersey,Secret Factory,New Jersey,Atlantic,2,178.5,2.1213203435596424,6.25
+Secret Factory -> New Mexico,Secret Factory,New Mexico,Pacific,2,176.0,2.8284271247461903,12.5
+Secret Factory -> New York,Secret Factory,New York,Atlantic,24,177.33333333333334,1.80979620920163,1026.25
+Secret Factory -> North Carolina,Secret Factory,North Carolina,Gulf,4,178.25,3.0956959368344505,20.0
+Secret Factory -> Ohio,Secret Factory,Ohio,Atlantic,13,177.6153846153846,1.5566235649883124,768.75
+Secret Factory -> Oregon,Secret Factory,Oregon,Pacific,2,175.5,0.7071067811865476,180.0
+Secret Factory -> Pennsylvania,Secret Factory,Pennsylvania,Atlantic,19,177.26315789473685,1.8809603121561147,762.5
+Secret Factory -> Quebec,Secret Factory,Quebec,Atlantic,2,178.0,0.0,100.0
+Secret Factory -> Rhode Island,Secret Factory,Rhode Island,Atlantic,3,176.66666666666666,2.0816659994661317,142.5
+Secret Factory -> South Carolina,Secret Factory,South Carolina,Gulf,1,179.0,0.0,6.25
+Secret Factory -> Tennessee,Secret Factory,Tennessee,Gulf,3,177.66666666666666,1.1547005383792557,62.5
+Secret Factory -> Texas,Secret Factory,Texas,Interior,16,177.1875,1.7594980344784006,517.5
+Secret Factory -> Utah,Secret Factory,Utah,Pacific,1,179.0,0.0,100.0
+Secret Factory -> Vermont,Secret Factory,Vermont,Atlantic,1,177.0,0.0,7.5
+Secret Factory -> Virginia,Secret Factory,Virginia,Gulf,5,177.2,1.7888543819998346,93.75
+Secret Factory -> Washington,Secret Factory,Washington,Pacific,11,177.36363636363637,1.747725795010604,351.25
+Secret Factory -> Wisconsin,Secret Factory,Wisconsin,Interior,5,177.6,1.1401754250991352,415.0
+Sugar Shack -> Arizona,Sugar Shack,Arizona,Pacific,1,179.0,0.0,11.25
+Sugar Shack -> California,Sugar Shack,California,Pacific,1,177.0,0.0,6.0
+Sugar Shack -> Connecticut,Sugar Shack,Connecticut,Atlantic,1,180.0,0.0,3.98
+Sugar Shack -> Delaware,Sugar Shack,Delaware,Atlantic,1,180.0,0.0,4.5
+Sugar Shack -> Florida,Sugar Shack,Florida,Gulf,3,179.0,0.0,36.89
+Sugar Shack -> Illinois,Sugar Shack,Illinois,Interior,2,176.0,1.4142135623730951,12.0
+Sugar Shack -> Michigan,Sugar Shack,Michigan,Interior,3,177.66666666666666,1.1547005383792557,17.740000000000002
+Sugar Shack -> New Jersey,Sugar Shack,New Jersey,Atlantic,1,181.0,0.0,5.97
+Sugar Shack -> New York,Sugar Shack,New York,Atlantic,9,177.77777777777777,1.481365736219265,56.97
+Sugar Shack -> Ohio,Sugar Shack,Ohio,Atlantic,2,176.5,3.5355339059327378,18.46
+Sugar Shack -> Pennsylvania,Sugar Shack,Pennsylvania,Atlantic,3,178.66666666666666,0.5773502691896278,24.23
+Sugar Shack -> Rhode Island,Sugar Shack,Rhode Island,Atlantic,1,177.0,0.0,4.5
+Sugar Shack -> Tennessee,Sugar Shack,Tennessee,Gulf,1,176.0,0.0,1.5
+Sugar Shack -> Texas,Sugar Shack,Texas,Interior,3,177.66666666666666,2.0816659994661366,15.0
+Sugar Shack -> Washington,Sugar Shack,Washington,Pacific,1,177.0,0.0,1.99
+The Other Factory -> Alabama,The Other Factory,Alabama,Gulf,2,178.5,0.7071067811865476,35.75
+The Other Factory -> Arizona,The Other Factory,Arizona,Pacific,2,175.5,0.7071067811865476,38.75
+The Other Factory -> California,The Other Factory,California,Pacific,21,177.04761904761904,1.8835124230062992,233.75
+The Other Factory -> Colorado,The Other Factory,Colorado,Pacific,2,177.5,2.1213203435596424,19.5
+The Other Factory -> Connecticut,The Other Factory,Connecticut,Atlantic,2,177.5,2.1213203435596424,9.75
+The Other Factory -> Delaware,The Other Factory,Delaware,Atlantic,2,178.0,2.8284271247461903,26.0
+The Other Factory -> Florida,The Other Factory,Florida,Gulf,3,177.33333333333334,1.5275252316519428,39.0
+The Other Factory -> Georgia,The Other Factory,Georgia,Gulf,2,178.0,0.0,39.0
+The Other Factory -> Indiana,The Other Factory,Indiana,Interior,1,179.0,0.0,19.5
+The Other Factory -> Kentucky,The Other Factory,Kentucky,Gulf,2,175.5,2.1213203435596424,26.0
+The Other Factory -> Louisiana,The Other Factory,Louisiana,Gulf,1,177.0,0.0,9.75
+The Other Factory -> Maryland,The Other Factory,Maryland,Atlantic,1,178.0,0.0,3.25
+The Other Factory -> Massachusetts,The Other Factory,Massachusetts,Atlantic,3,176.66666666666666,0.5773502691896216,32.5
+The Other Factory -> Missouri,The Other Factory,Missouri,Interior,1,179.0,0.0,6.5
+The Other Factory -> Nevada,The Other Factory,Nevada,Pacific,1,177.0,0.0,16.25
+The Other Factory -> New Hampshire,The Other Factory,New Hampshire,Atlantic,2,175.5,0.7071067811865476,35.75
+The Other Factory -> New Jersey,The Other Factory,New Jersey,Atlantic,3,177.66666666666666,0.5773502691896278,68.25
+The Other Factory -> New York,The Other Factory,New York,Atlantic,14,178.0,1.9215378456610497,181.75
+The Other Factory -> North Carolina,The Other Factory,North Carolina,Gulf,1,174.0,0.0,9.0
+The Other Factory -> Ohio,The Other Factory,Ohio,Atlantic,3,176.33333333333334,2.309401076758505,29.25
+The Other Factory -> Oregon,The Other Factory,Oregon,Pacific,2,176.0,0.0,26.0
+The Other Factory -> Pennsylvania,The Other Factory,Pennsylvania,Atlantic,7,177.42857142857142,2.2253945610567483,97.5
+The Other Factory -> Rhode Island,The Other Factory,Rhode Island,Atlantic,1,178.0,0.0,22.75
+The Other Factory -> South Carolina,The Other Factory,South Carolina,Gulf,1,177.0,0.0,6.5
+The Other Factory -> Tennessee,The Other Factory,Tennessee,Gulf,3,178.0,2.6457513110645907,42.25
+The Other Factory -> Texas,The Other Factory,Texas,Interior,9,177.11111111111111,0.9279607271383369,100.75
+The Other Factory -> Virginia,The Other Factory,Virginia,Gulf,4,176.25,2.3629078131263075,55.25
+The Other Factory -> Washington,The Other Factory,Washington,Pacific,4,179.25,0.9574271077563369,52.0
+Wicked Choccy's -> Alabama,Wicked Choccy's,Alabama,Gulf,22,177.04545454545453,1.4631106043948463,333.75
+Wicked Choccy's -> Alberta,Wicked Choccy's,Alberta,Pacific,8,178.875,0.3535533905932748,146.0
+Wicked Choccy's -> Arizona,Wicked Choccy's,Arizona,Pacific,105,177.8,2.025795190498328,1429.5
+Wicked Choccy's -> Arkansas,Wicked Choccy's,Arkansas,Gulf,27,177.85185185185185,2.348546255807934,393.5
+Wicked Choccy's -> British Columbia,Wicked Choccy's,British Columbia,Pacific,4,177.75,0.5000000000000023,37.5
+Wicked Choccy's -> California,Wicked Choccy's,California,Pacific,823,177.6063183475091,1.835857743732505,11394.0
+Wicked Choccy's -> Colorado,Wicked Choccy's,Colorado,Pacific,70,177.15714285714284,1.336616041750283,906.5
+Wicked Choccy's -> Connecticut,Wicked Choccy's,Connecticut,Atlantic,31,177.25806451612902,2.4490507267848862,440.75
+Wicked Choccy's -> Delaware,Wicked Choccy's,Delaware,Atlantic,49,178.0408163265306,1.6451846866115796,601.5
+Wicked Choccy's -> District of Columbia,Wicked Choccy's,District of Columbia,Atlantic,2,179.5,0.7071067811865476,16.25
+Wicked Choccy's -> Florida,Wicked Choccy's,Florida,Gulf,161,177.7391304347826,1.9669829026024648,2009.25
+Wicked Choccy's -> Georgia,Wicked Choccy's,Georgia,Gulf,65,177.47692307692307,2.031837932664748,862.25
+Wicked Choccy's -> Idaho,Wicked Choccy's,Idaho,Pacific,7,177.14285714285714,1.4638501094227998,78.75
+Wicked Choccy's -> Illinois,Wicked Choccy's,Illinois,Interior,210,177.84761904761905,1.7322218074098028,2801.5
+Wicked Choccy's -> Indiana,Wicked Choccy's,Indiana,Interior,54,178.27777777777777,1.6301020533704333,708.25
+Wicked Choccy's -> Iowa,Wicked Choccy's,Iowa,Interior,14,177.57142857142858,2.1018045621756603,172.5
+Wicked Choccy's -> Kansas,Wicked Choccy's,Kansas,Interior,9,178.0,2.179449471770339,74.25
+Wicked Choccy's -> Kentucky,Wicked Choccy's,Kentucky,Gulf,58,177.79310344827587,1.5756771943166745,769.25
+Wicked Choccy's -> Louisiana,Wicked Choccy's,Louisiana,Gulf,15,176.8,1.5212776585113286,220.5
+Wicked Choccy's -> Maine,Wicked Choccy's,Maine,Atlantic,2,178.0,0.0,55.25
+Wicked Choccy's -> Manitoba,Wicked Choccy's,Manitoba,Interior,10,177.1,0.9944289260117588,120.25
+Wicked Choccy's -> Maryland,Wicked Choccy's,Maryland,Atlantic,41,177.6341463414634,1.7713850168861525,652.25
+Wicked Choccy's -> Massachusetts,Wicked Choccy's,Massachusetts,Atlantic,54,177.90740740740742,1.3069988453823818,671.25
+Wicked Choccy's -> Michigan,Wicked Choccy's,Michigan,Interior,100,177.87,1.9830341001667682,1127.0
+Wicked Choccy's -> Minnesota,Wicked Choccy's,Minnesota,Interior,45,178.4,2.093279289014764,595.25
+Wicked Choccy's -> Mississippi,Wicked Choccy's,Mississippi,Gulf,22,177.9090909090909,1.3769908845391505,315.75
+Wicked Choccy's -> Missouri,Wicked Choccy's,Missouri,Interior,29,177.6551724137931,1.609699662957695,362.25
+Wicked Choccy's -> Montana,Wicked Choccy's,Montana,Pacific,7,178.57142857142858,2.6367367999823115,109.5
+Wicked Choccy's -> Nebraska,Wicked Choccy's,Nebraska,Interior,14,177.5,2.1031112483834287,185.75
+Wicked Choccy's -> Nevada,Wicked Choccy's,Nevada,Pacific,12,177.83333333333334,2.1672493389016587,151.5
+Wicked Choccy's -> New Brunswick,Wicked Choccy's,New Brunswick,Atlantic,4,177.5,0.5773502691896257,75.0
+Wicked Choccy's -> New Hampshire,Wicked Choccy's,New Hampshire,Atlantic,11,178.0909090909091,1.5135749373285388,208.25
+Wicked Choccy's -> New Jersey,Wicked Choccy's,New Jersey,Atlantic,59,177.71186440677965,1.7024409196050672,672.0
+Wicked Choccy's -> New Mexico,Wicked Choccy's,New Mexico,Pacific,17,178.35294117647058,1.057188279741846,229.5
+Wicked Choccy's -> New York,Wicked Choccy's,New York,Atlantic,436,177.65366972477065,1.8536724210848257,5518.25
+Wicked Choccy's -> North Carolina,Wicked Choccy's,North Carolina,Gulf,101,177.4851485148515,1.7698240668842709,1376.25
+Wicked Choccy's -> North Dakota,Wicked Choccy's,North Dakota,Interior,2,176.0,0.0,52.5
+Wicked Choccy's -> Nova Scotia,Wicked Choccy's,Nova Scotia,Atlantic,6,177.0,0.8944271909999159,87.5
+Wicked Choccy's -> Ohio,Wicked Choccy's,Ohio,Atlantic,189,177.11111111111111,2.0246705361964086,2479.75
+Wicked Choccy's -> Oklahoma,Wicked Choccy's,Oklahoma,Interior,25,177.76,2.1071307505705454,308.25
+Wicked Choccy's -> Ontario,Wicked Choccy's,Ontario,Atlantic,30,177.43333333333334,1.1651056880677515,466.25
+Wicked Choccy's -> Oregon,Wicked Choccy's,Oregon,Pacific,43,177.90697674418604,1.8363259577906668,628.25
+Wicked Choccy's -> Pennsylvania,Wicked Choccy's,Pennsylvania,Atlantic,227,177.62555066079295,1.6922151348713412,2804.25
+Wicked Choccy's -> Prince Edward Island,Wicked Choccy's,Prince Edward Island,Atlantic,4,178.5,0.5773502691896216,52.0
+Wicked Choccy's -> Quebec,Wicked Choccy's,Quebec,Atlantic,24,178.5,1.1420804814403185,254.75
+Wicked Choccy's -> Rhode Island,Wicked Choccy's,Rhode Island,Atlantic,21,177.0952380952381,1.786190412715348,282.25
+Wicked Choccy's -> Saskatchewan,Wicked Choccy's,Saskatchewan,Pacific,2,178.5,0.7071067811865476,29.25
+Wicked Choccy's -> South Carolina,Wicked Choccy's,South Carolina,Gulf,19,176.89473684210526,1.8825141829805128,307.0
+Wicked Choccy's -> South Dakota,Wicked Choccy's,South Dakota,Interior,3,178.33333333333334,0.5773502691896216,33.75
+Wicked Choccy's -> Tennessee,Wicked Choccy's,Tennessee,Gulf,67,178.11940298507463,1.4197992608827057,915.75
+Wicked Choccy's -> Texas,Wicked Choccy's,Texas,Interior,388,177.6340206185567,1.8200937930761771,5140.5
+Wicked Choccy's -> Utah,Wicked Choccy's,Utah,Pacific,23,178.0,1.5954480704349305,362.5
+Wicked Choccy's -> Vermont,Wicked Choccy's,Vermont,Atlantic,5,176.6,0.8944271909999143,51.75
+Wicked Choccy's -> Virginia,Wicked Choccy's,Virginia,Gulf,106,177.71698113207546,1.7279479543591372,1490.0
+Wicked Choccy's -> Washington,Wicked Choccy's,Washington,Pacific,221,177.579185520362,1.9907333657744302,3023.0
+Wicked Choccy's -> West Virginia,Wicked Choccy's,West Virginia,Atlantic,2,178.0,0.0,25.25
+Wicked Choccy's -> Wisconsin,Wicked Choccy's,Wisconsin,Interior,47,177.6595744680851,1.578064248219276,737.25

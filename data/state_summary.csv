@@ -1,0 +1,60 @@
+State/Province,Region,Country/Region,Total_Shipments,Avg_Lead_Time,Delay_Rate_Pct
+Newfoundland and Labrador,Atlantic,Canada,6,181.5,66.7
+District of Columbia,Atlantic,United States,10,179.0,30.0
+Maine,Atlantic,United States,8,178.75,37.5
+South Dakota,Interior,United States,12,178.58333333333334,8.3
+Saskatchewan,Pacific,Canada,2,178.5,0.0
+Alberta,Pacific,Canada,26,178.46153846153845,0.0
+Prince Edward Island,Atlantic,Canada,10,178.4,0.0
+Minnesota,Interior,United States,89,178.35955056179776,28.1
+New Mexico,Pacific,United States,37,178.32432432432432,10.8
+Montana,Pacific,United States,15,178.26666666666668,20.0
+Utah,Pacific,United States,53,178.11320754716982,3.8
+British Columbia,Pacific,Canada,22,178.04545454545453,0.0
+Quebec,Atlantic,Canada,50,178.02,16.0
+Wyoming,Pacific,United States,1,178.0,0.0
+Tennessee,Gulf,United States,183,177.9945355191257,16.9
+Indiana,Interior,United States,149,177.94630872483222,13.4
+New Jersey,Atlantic,United States,130,177.94615384615383,20.8
+Oregon,Pacific,United States,124,177.91935483870967,20.2
+Delaware,Atlantic,United States,96,177.91666666666666,19.8
+Oklahoma,Interior,United States,66,177.8939393939394,19.7
+Nevada,Pacific,United States,39,177.87179487179486,28.2
+Arkansas,Gulf,United States,60,177.86666666666667,28.3
+Missouri,Interior,United States,66,177.77272727272728,7.6
+Illinois,Interior,United States,492,177.76626016260164,12.8
+Kansas,Interior,United States,24,177.75,16.7
+Mississippi,Gulf,United States,53,177.73584905660377,7.5
+Arizona,Pacific,United States,224,177.72767857142858,21.0
+Alabama,Gulf,United States,61,177.68852459016392,18.0
+Kentucky,Gulf,United States,139,177.67625899280574,12.9
+Michigan,Interior,United States,255,177.65098039215687,17.6
+New York,Atlantic,United States,1128,177.6427304964539,15.1
+Washington,Pacific,United States,506,177.63438735177866,16.8
+Iowa,Interior,United States,30,177.63333333333333,16.7
+Maryland,Atlantic,United States,105,177.61904761904762,10.5
+Florida,Gulf,United States,383,177.61879895561358,13.8
+Texas,Interior,United States,985,177.58781725888326,13.0
+North Carolina,Gulf,United States,249,177.58634538152612,12.0
+Pennsylvania,Atlantic,United States,587,177.55366269165248,9.4
+Wisconsin,Interior,United States,110,177.54545454545453,9.1
+Virginia,Gulf,United States,224,177.53571428571428,16.1
+New Brunswick,Atlantic,Canada,8,177.5,0.0
+California,Pacific,United States,2001,177.48625687156422,12.8
+Massachusetts,Atlantic,United States,135,177.47407407407408,8.1
+Georgia,Gulf,United States,184,177.47282608695653,13.6
+Idaho,Pacific,United States,21,177.38095238095238,4.8
+New Hampshire,Atlantic,United States,27,177.2962962962963,14.8
+Connecticut,Atlantic,United States,82,177.2439024390244,17.1
+Colorado,Pacific,United States,182,177.21978021978023,9.9
+Ontario,Atlantic,Canada,58,177.1551724137931,0.0
+South Carolina,Gulf,United States,42,177.11904761904762,4.8
+Ohio,Atlantic,United States,469,177.09808102345417,10.0
+Nebraska,Interior,United States,38,177.07894736842104,7.9
+Rhode Island,Atlantic,United States,56,177.01785714285714,10.7
+Vermont,Atlantic,United States,11,177.0,0.0
+Nova Scotia,Atlantic,Canada,6,177.0,0.0
+West Virginia,Atlantic,United States,4,177.0,0.0
+Louisiana,Gulf,United States,42,176.97619047619048,0.0
+North Dakota,Interior,United States,7,176.85714285714286,0.0
+Manitoba,Interior,Canada,12,176.83333333333334,0.0
