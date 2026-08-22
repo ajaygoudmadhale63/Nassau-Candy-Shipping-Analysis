@@ -52,7 +52,7 @@ streamlit run app.py
 Python (pandas, numpy) for cleaning & analysis · matplotlib for static report charts · Streamlit + Plotly for the interactive dashboard · python-docx for the report/summary documents.
 
 ## Deliverables (per project brief)
-- [x] Research paper (EDA, insights, recommendations) — `Nassau_Candy_Shipping_Efficiency_Report.docx`
+- [x] Research paper (EDA, insights, recommendations) — `Nassau_Candy_Shipping_Efficiency_Research_Paper.docx`
 - [x] Streamlit dashboard (live analytics) — `app.py`
 - [x] Executive summary — `Nassau_Candy_Executive_Summary.docx`
 
