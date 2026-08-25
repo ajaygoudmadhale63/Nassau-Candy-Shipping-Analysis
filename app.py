@@ -116,7 +116,7 @@ k5.metric("Total Sales", f"${fdf['Sales'].sum():,.0f}")
 
 st.caption(
     "⚠️ **Data quality note:** the source Ship Date field had a corrupted year, which was reconstructed "
-    "from Order Date (see Report §4 for the full method). Lead-time values above are a corrected, "
+    "from Order Date (see Research Paper §4 for the full method). Lead-time values above are a corrected, "
     "**relative/comparable index** — useful for ranking routes and ship modes against each other — "
     "not a literal count of real-world shipping days."
 )
